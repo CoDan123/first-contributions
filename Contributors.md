@@ -835,6 +835,7 @@
 - [Arnav Andrew Jose](https://github.com/crmsnbleyd)
 - [Komilos](https://github.com/kamsharipova)
 - [Miguel](https://github.com/mrnogues)
+- [Dan](https://github.com/CoDan123)
 - [PavlMais](https://github.com/PavlMais)
 - [Mikkel L. Mouridsen](https://github.com/Coborax)
 - [Joel Poh](https://github.com/jwnpoh)
